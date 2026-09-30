@@ -257,16 +257,6 @@ Proyecto desarrollado en equipo.
 
 ---
 
-## 🤝 Contribuciones
-
-Las contribuciones de cada autor se pueden revisar en el historial de commits:
-
-```bash
-git shortlog -sne
-```
-
----
-
 ## 📄 Licencia
 
 Proyecto académico con fines educativos.
