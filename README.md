@@ -246,9 +246,24 @@ APPSTYLEMIND/
 
 ---
 
-## 👤 Autor
+## 👥 Autores
 
-**Juan Sampayo** — [github.com/juanksrt](https://github.com/juanksrt)
+Proyecto desarrollado en equipo.
+
+| Autor | GitHub |
+|---|---|
+| **Juan Sampayo** | [@juanksrt](https://github.com/juanksrt) |
+| **Juan Ardila** | — |
+
+---
+
+## 🤝 Contribuciones
+
+Las contribuciones de cada autor se pueden revisar en el historial de commits:
+
+```bash
+git shortlog -sne
+```
 
 ---
 
