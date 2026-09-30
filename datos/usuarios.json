@@ -1,0 +1,10 @@
+[
+    {
+        "id_usuario": 1,
+        "nombre": "Admin StyleMind",
+        "documento": "0000000000",
+        "correo": "admin@stylemind.com",
+        "password": "admin123",
+        "rol": "admin"
+    }
+]

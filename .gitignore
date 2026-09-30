@@ -1,0 +1,30 @@
+# Bytecode generado por Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+
+# Archivos de configuracion local
+.env
+.env.local
+config.local.py
+
+# Herramientas de desarrollo
+.vscode/
+.idea/
+.pytest_cache/
+.mypy_cache/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak

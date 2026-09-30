@@ -1,0 +1,542 @@
+[
+    {
+        "id_prenda": 1,
+        "nombre": "Camisa Clasica",
+        "tipo": "Camisa",
+        "color": "Negro",
+        "talla": "S",
+        "precio": 45000,
+        "cantidad": 20
+    },
+    {
+        "id_prenda": 2,
+        "nombre": "Camisa Clasica",
+        "tipo": "Camisa",
+        "color": "Negro",
+        "talla": "M",
+        "precio": 50000,
+        "cantidad": 20
+    },
+    {
+        "id_prenda": 3,
+        "nombre": "Camisa Clasica",
+        "tipo": "Camisa",
+        "color": "Negro",
+        "talla": "L",
+        "precio": 55000,
+        "cantidad": 8
+    },
+    {
+        "id_prenda": 4,
+        "nombre": "Camisa Clasica",
+        "tipo": "Camisa",
+        "color": "Negro",
+        "talla": "XL",
+        "precio": 62000,
+        "cantidad": 8
+    },
+    {
+        "id_prenda": 5,
+        "nombre": "Camisa Clasica",
+        "tipo": "Camisa",
+        "color": "Beige",
+        "talla": "S",
+        "precio": 45000,
+        "cantidad": 20
+    },
+    {
+        "id_prenda": 6,
+        "nombre": "Camisa Clasica",
+        "tipo": "Camisa",
+        "color": "Beige",
+        "talla": "M",
+        "precio": 50000,
+        "cantidad": 20
+    },
+    {
+        "id_prenda": 7,
+        "nombre": "Camisa Clasica",
+        "tipo": "Camisa",
+        "color": "Beige",
+        "talla": "L",
+        "precio": 55000,
+        "cantidad": 8
+    },
+    {
+        "id_prenda": 8,
+        "nombre": "Camisa Clasica",
+        "tipo": "Camisa",
+        "color": "Beige",
+        "talla": "XL",
+        "precio": 62000,
+        "cantidad": 8
+    },
+    {
+        "id_prenda": 9,
+        "nombre": "Camisa Clasica",
+        "tipo": "Camisa",
+        "color": "Blanco",
+        "talla": "S",
+        "precio": 45000,
+        "cantidad": 20
+    },
+    {
+        "id_prenda": 10,
+        "nombre": "Camisa Clasica",
+        "tipo": "Camisa",
+        "color": "Blanco",
+        "talla": "M",
+        "precio": 50000,
+        "cantidad": 20
+    },
+    {
+        "id_prenda": 11,
+        "nombre": "Camisa Clasica",
+        "tipo": "Camisa",
+        "color": "Blanco",
+        "talla": "L",
+        "precio": 55000,
+        "cantidad": 8
+    },
+    {
+        "id_prenda": 12,
+        "nombre": "Camisa Clasica",
+        "tipo": "Camisa",
+        "color": "Blanco",
+        "talla": "XL",
+        "precio": 62000,
+        "cantidad": 8
+    },
+    {
+        "id_prenda": 13,
+        "nombre": "Camisa Urban",
+        "tipo": "Camisa",
+        "color": "Azul",
+        "talla": "S",
+        "precio": 45000,
+        "cantidad": 8
+    },
+    {
+        "id_prenda": 14,
+        "nombre": "Camisa Urban",
+        "tipo": "Camisa",
+        "color": "Azul",
+        "talla": "M",
+        "precio": 50000,
+        "cantidad": 8
+    },
+    {
+        "id_prenda": 15,
+        "nombre": "Camisa Urban",
+        "tipo": "Camisa",
+        "color": "Azul",
+        "talla": "L",
+        "precio": 55000,
+        "cantidad": 5
+    },
+    {
+        "id_prenda": 16,
+        "nombre": "Camisa Urban",
+        "tipo": "Camisa",
+        "color": "Azul",
+        "talla": "XL",
+        "precio": 62000,
+        "cantidad": 5
+    },
+    {
+        "id_prenda": 17,
+        "nombre": "Camisa Urban",
+        "tipo": "Camisa",
+        "color": "Verde bosque",
+        "talla": "S",
+        "precio": 45000,
+        "cantidad": 8
+    },
+    {
+        "id_prenda": 18,
+        "nombre": "Camisa Urban",
+        "tipo": "Camisa",
+        "color": "Verde bosque",
+        "talla": "M",
+        "precio": 50000,
+        "cantidad": 8
+    },
+    {
+        "id_prenda": 19,
+        "nombre": "Camisa Urban",
+        "tipo": "Camisa",
+        "color": "Verde bosque",
+        "talla": "L",
+        "precio": 55000,
+        "cantidad": 5
+    },
+    {
+        "id_prenda": 20,
+        "nombre": "Camisa Urban",
+        "tipo": "Camisa",
+        "color": "Verde bosque",
+        "talla": "XL",
+        "precio": 62000,
+        "cantidad": 5
+    },
+    {
+        "id_prenda": 21,
+        "nombre": "Pantalon Slim",
+        "tipo": "Pantalon",
+        "color": "Negro",
+        "talla": "S",
+        "precio": 75000,
+        "cantidad": 8
+    },
+    {
+        "id_prenda": 22,
+        "nombre": "Pantalon Slim",
+        "tipo": "Pantalon",
+        "color": "Negro",
+        "talla": "M",
+        "precio": 82000,
+        "cantidad": 8
+    },
+    {
+        "id_prenda": 23,
+        "nombre": "Pantalon Slim",
+        "tipo": "Pantalon",
+        "color": "Negro",
+        "talla": "L",
+        "precio": 90000,
+        "cantidad": 4
+    },
+    {
+        "id_prenda": 24,
+        "nombre": "Pantalon Slim",
+        "tipo": "Pantalon",
+        "color": "Negro",
+        "talla": "XL",
+        "precio": 98000,
+        "cantidad": 4
+    },
+    {
+        "id_prenda": 25,
+        "nombre": "Pantalon Slim",
+        "tipo": "Pantalon",
+        "color": "Beige",
+        "talla": "S",
+        "precio": 75000,
+        "cantidad": 8
+    },
+    {
+        "id_prenda": 26,
+        "nombre": "Pantalon Slim",
+        "tipo": "Pantalon",
+        "color": "Beige",
+        "talla": "M",
+        "precio": 82000,
+        "cantidad": 8
+    },
+    {
+        "id_prenda": 27,
+        "nombre": "Pantalon Slim",
+        "tipo": "Pantalon",
+        "color": "Beige",
+        "talla": "L",
+        "precio": 90000,
+        "cantidad": 4
+    },
+    {
+        "id_prenda": 28,
+        "nombre": "Pantalon Slim",
+        "tipo": "Pantalon",
+        "color": "Beige",
+        "talla": "XL",
+        "precio": 98000,
+        "cantidad": 4
+    },
+    {
+        "id_prenda": 29,
+        "nombre": "Pantalon Slim",
+        "tipo": "Pantalon",
+        "color": "Blanco",
+        "talla": "S",
+        "precio": 75000,
+        "cantidad": 8
+    },
+    {
+        "id_prenda": 30,
+        "nombre": "Pantalon Slim",
+        "tipo": "Pantalon",
+        "color": "Blanco",
+        "talla": "M",
+        "precio": 82000,
+        "cantidad": 8
+    },
+    {
+        "id_prenda": 31,
+        "nombre": "Pantalon Slim",
+        "tipo": "Pantalon",
+        "color": "Blanco",
+        "talla": "L",
+        "precio": 90000,
+        "cantidad": 4
+    },
+    {
+        "id_prenda": 32,
+        "nombre": "Pantalon Slim",
+        "tipo": "Pantalon",
+        "color": "Blanco",
+        "talla": "XL",
+        "precio": 98000,
+        "cantidad": 4
+    },
+    {
+        "id_prenda": 33,
+        "nombre": "Pantalon Urban",
+        "tipo": "Pantalon",
+        "color": "Azul",
+        "talla": "S",
+        "precio": 75000,
+        "cantidad": 6
+    },
+    {
+        "id_prenda": 34,
+        "nombre": "Pantalon Urban",
+        "tipo": "Pantalon",
+        "color": "Azul",
+        "talla": "M",
+        "precio": 82000,
+        "cantidad": 6
+    },
+    {
+        "id_prenda": 35,
+        "nombre": "Pantalon Urban",
+        "tipo": "Pantalon",
+        "color": "Azul",
+        "talla": "L",
+        "precio": 90000,
+        "cantidad": 2
+    },
+    {
+        "id_prenda": 36,
+        "nombre": "Pantalon Urban",
+        "tipo": "Pantalon",
+        "color": "Azul",
+        "talla": "XL",
+        "precio": 98000,
+        "cantidad": 2
+    },
+    {
+        "id_prenda": 37,
+        "nombre": "Pantalon Urban",
+        "tipo": "Pantalon",
+        "color": "Verde bosque",
+        "talla": "S",
+        "precio": 75000,
+        "cantidad": 6
+    },
+    {
+        "id_prenda": 38,
+        "nombre": "Pantalon Urban",
+        "tipo": "Pantalon",
+        "color": "Verde bosque",
+        "talla": "M",
+        "precio": 82000,
+        "cantidad": 6
+    },
+    {
+        "id_prenda": 39,
+        "nombre": "Pantalon Urban",
+        "tipo": "Pantalon",
+        "color": "Verde bosque",
+        "talla": "L",
+        "precio": 90000,
+        "cantidad": 2
+    },
+    {
+        "id_prenda": 40,
+        "nombre": "Pantalon Urban",
+        "tipo": "Pantalon",
+        "color": "Verde bosque",
+        "talla": "XL",
+        "precio": 98000,
+        "cantidad": 2
+    },
+    {
+        "id_prenda": 41,
+        "nombre": "Chaqueta Premium",
+        "tipo": "Chaqueta",
+        "color": "Negro",
+        "talla": "S",
+        "precio": 89000,
+        "cantidad": 10
+    },
+    {
+        "id_prenda": 42,
+        "nombre": "Chaqueta Premium",
+        "tipo": "Chaqueta",
+        "color": "Negro",
+        "talla": "M",
+        "precio": 95000,
+        "cantidad": 10
+    },
+    {
+        "id_prenda": 43,
+        "nombre": "Chaqueta Premium",
+        "tipo": "Chaqueta",
+        "color": "Negro",
+        "talla": "L",
+        "precio": 102000,
+        "cantidad": 5
+    },
+    {
+        "id_prenda": 44,
+        "nombre": "Chaqueta Premium",
+        "tipo": "Chaqueta",
+        "color": "Negro",
+        "talla": "XL",
+        "precio": 110000,
+        "cantidad": 5
+    },
+    {
+        "id_prenda": 45,
+        "nombre": "Chaqueta Premium",
+        "tipo": "Chaqueta",
+        "color": "Beige",
+        "talla": "S",
+        "precio": 89000,
+        "cantidad": 10
+    },
+    {
+        "id_prenda": 46,
+        "nombre": "Chaqueta Premium",
+        "tipo": "Chaqueta",
+        "color": "Beige",
+        "talla": "M",
+        "precio": 95000,
+        "cantidad": 10
+    },
+    {
+        "id_prenda": 47,
+        "nombre": "Chaqueta Premium",
+        "tipo": "Chaqueta",
+        "color": "Beige",
+        "talla": "L",
+        "precio": 102000,
+        "cantidad": 5
+    },
+    {
+        "id_prenda": 48,
+        "nombre": "Chaqueta Premium",
+        "tipo": "Chaqueta",
+        "color": "Beige",
+        "talla": "XL",
+        "precio": 110000,
+        "cantidad": 5
+    },
+    {
+        "id_prenda": 49,
+        "nombre": "Chaqueta Premium",
+        "tipo": "Chaqueta",
+        "color": "Blanco",
+        "talla": "S",
+        "precio": 89000,
+        "cantidad": 10
+    },
+    {
+        "id_prenda": 50,
+        "nombre": "Chaqueta Premium",
+        "tipo": "Chaqueta",
+        "color": "Blanco",
+        "talla": "M",
+        "precio": 95000,
+        "cantidad": 10
+    },
+    {
+        "id_prenda": 51,
+        "nombre": "Chaqueta Premium",
+        "tipo": "Chaqueta",
+        "color": "Blanco",
+        "talla": "L",
+        "precio": 102000,
+        "cantidad": 5
+    },
+    {
+        "id_prenda": 52,
+        "nombre": "Chaqueta Premium",
+        "tipo": "Chaqueta",
+        "color": "Blanco",
+        "talla": "XL",
+        "precio": 110000,
+        "cantidad": 5
+    },
+    {
+        "id_prenda": 53,
+        "nombre": "Chaqueta Urban",
+        "tipo": "Chaqueta",
+        "color": "Azul",
+        "talla": "S",
+        "precio": 89000,
+        "cantidad": 5
+    },
+    {
+        "id_prenda": 54,
+        "nombre": "Chaqueta Urban",
+        "tipo": "Chaqueta",
+        "color": "Azul",
+        "talla": "M",
+        "precio": 95000,
+        "cantidad": 5
+    },
+    {
+        "id_prenda": 55,
+        "nombre": "Chaqueta Urban",
+        "tipo": "Chaqueta",
+        "color": "Azul",
+        "talla": "L",
+        "precio": 102000,
+        "cantidad": 3
+    },
+    {
+        "id_prenda": 56,
+        "nombre": "Chaqueta Urban",
+        "tipo": "Chaqueta",
+        "color": "Azul",
+        "talla": "XL",
+        "precio": 110000,
+        "cantidad": 3
+    },
+    {
+        "id_prenda": 57,
+        "nombre": "Chaqueta Urban",
+        "tipo": "Chaqueta",
+        "color": "Verde bosque",
+        "talla": "S",
+        "precio": 89000,
+        "cantidad": 5
+    },
+    {
+        "id_prenda": 58,
+        "nombre": "Chaqueta Urban",
+        "tipo": "Chaqueta",
+        "color": "Verde bosque",
+        "talla": "M",
+        "precio": 95000,
+        "cantidad": 5
+    },
+    {
+        "id_prenda": 59,
+        "nombre": "Chaqueta Urban",
+        "tipo": "Chaqueta",
+        "color": "Verde bosque",
+        "talla": "L",
+        "precio": 102000,
+        "cantidad": 3
+    },
+    {
+        "id_prenda": 60,
+        "nombre": "Chaqueta Urban",
+        "tipo": "Chaqueta",
+        "color": "Verde bosque",
+        "talla": "XL",
+        "precio": 110000,
+        "cantidad": 3
+    }
+]
